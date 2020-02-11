@@ -6,4 +6,4 @@ This is still WIP in the early stage...
 
 [Counts](data/google-news-counts.csv)
 
-[Links](data/google-news-counts.csv)
+[Links](data/google-news-links.csv)
